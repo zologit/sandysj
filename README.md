@@ -1,2 +1,0 @@
-# sandysj
-repo1
